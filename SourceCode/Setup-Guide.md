@@ -10,7 +10,7 @@
 <img width="1322" height="593" alt="image" src="https://github.com/user-attachments/assets/3323bfee-e6e6-4491-9d65-054c877c434c" />
 
 ## (2) Python & tools Setup
-### Install the latest version of python and you want to get the tools that the bot uses.
+### Install the latest version of python and you want to get the tools in the terminal that the bot uses.
 ### Pyfiglet
 ```bash
 pip install pyfiglet
@@ -34,3 +34,14 @@ pip install discord
 <img width="313" height="625" alt="image" src="https://github.com/user-attachments/assets/e55ed7cc-8120-4ccf-88ca-b2eb6b7256be" />
 
 ### Download asciibot.py from the repository and open the file with any IDE and change these things.
+
+### Line 11 and 21 replace "SERVER-ID" with your discord servers ID that you coppied
+
+### Line 67 Replace TOKEN with the token you got from the Discord Developer Portal
+
+### If you wanta custom font, create a new directory, download a new font (FLF File) I recomend DeltaCorpsPriest1 --> https://github.com/xero/figlet-fonts/blob/main/Delta%20Corps%20Priest%201.flf and put it in the directory, then go to line 56, and replace "CUSTOM-FONT-DIRECTORY" with the directory path of where you keep the flf file, then on line 58 change "CUSTOM-FONT-NAME" to the file name of the flf file just dont write "filename.flf" keep .flf out. Then Save it
+
+<img width="801" height="1296" alt="tut2" src="https://github.com/user-attachments/assets/1840ae54-1018-486f-8215-692105499f27" />
+
+## (4) Run It
+### On the discord Server click the invite link you pasted in earlier and you can invite the bot. Then go on the asciibot.py file and run it, now you should be able to use the bot so yea have fun!!
