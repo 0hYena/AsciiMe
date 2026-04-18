@@ -1,5 +1,0 @@
-# Setup Guide
-
-## (1) Discord Dev Portal
-### Go to https://discord.com/developers/applications and signin then create a bot
-### On the left side head to OAuth2 and select "Bot" then "Administrator" to get a link to invite the bot to your server
